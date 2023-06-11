@@ -7,7 +7,7 @@ Credit also goes to: https://stackoverflow.com/a/76386970
 To try, clone the repo, add your own OpenAI API Key, install the modules, and run the gradio app:
 
 ```
-gradio app
+gradio app.py
 ```
 
 More explanation to come.
